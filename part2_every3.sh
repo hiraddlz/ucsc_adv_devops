@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # part2_every3.sh
+# chmod +x part2_every3.sh
 # Usage: ./part2_every3.sh input.txt
 # Sums the two-digit calibration values but only for every 3rd line (lines 3,6,9,...)
 
